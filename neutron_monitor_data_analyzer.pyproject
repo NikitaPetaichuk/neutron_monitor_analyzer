@@ -1,0 +1,3 @@
+{
+    "files": ["model/model_snapshot","form.ui","model/neutron_monitor_data_lenet.py","neutron_monitor_data_analyzer.py","requirements.txt","process_neutron_monitor_data.py"]
+}
